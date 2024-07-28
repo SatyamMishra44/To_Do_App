@@ -1,4 +1,4 @@
-** Simple To_Do_ Application **
+**Simple To_Do_ Application**
 
 *The Simple ToDo App is an Android application developed during my internship .*
 *It allows users to add, view, edit, and delete tasks, with all data stored locally on the device.* 
