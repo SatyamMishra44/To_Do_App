@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="fullscreen_image_description">Description of your fullscreen image</string>
+
+</resources>
